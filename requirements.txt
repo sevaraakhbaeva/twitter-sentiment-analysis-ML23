@@ -1,0 +1,7 @@
+pandas
+wordcloud
+matplotlib
+seaborn
+tueplots
+sentence_transformers
+jupyter
